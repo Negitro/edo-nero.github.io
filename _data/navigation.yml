@@ -15,9 +15,13 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "CV-IT"
 #   url: /cv/
-    url: /files/cv.pdf    
+    url: /files/cv_it.pdf    
   
+  - title: "CV-EN"
+#   url: /cv/
+    url: /files/cv_en.pdf  
+
   - title: "Guide"
     url: /markdown/

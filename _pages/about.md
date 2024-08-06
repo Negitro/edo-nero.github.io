@@ -19,12 +19,5 @@ Quick in learning and able to work tirelessly with computer programs.
 
 Looking for a job that gives the opportunity to develop unconventional procedures focusing on resource recovery and/or automated management.
 
-Previous Experiences
-=====
-
-Followed courses:
-
-Energy Engineering Bachelor
-=======
 
 

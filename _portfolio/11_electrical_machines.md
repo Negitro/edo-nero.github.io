@@ -1,6 +1,6 @@
 ---
 title: "Electrical Machines"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

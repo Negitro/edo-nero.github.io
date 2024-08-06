@@ -1,6 +1,6 @@
 ---
 title: "BIM Fundamentals for Engineers"
-excerpt: ""
+excerpt: "on Coursera, held by NTU"
 collection: portfolio
 ---
 

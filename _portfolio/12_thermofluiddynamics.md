@@ -1,6 +1,6 @@
 ---
 title: "Thermo-Fluid Dynamics"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

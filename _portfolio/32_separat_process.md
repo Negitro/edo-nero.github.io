@@ -1,6 +1,6 @@
 ---
 title: "Separation processes"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

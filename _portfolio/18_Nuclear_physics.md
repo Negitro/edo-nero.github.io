@@ -1,6 +1,6 @@
 ---
 title: "Nuclear Physics"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

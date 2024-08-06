@@ -1,6 +1,6 @@
 ---
 title: "Numerical calculation methods"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

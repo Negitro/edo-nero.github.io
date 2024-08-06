@@ -1,6 +1,6 @@
 ---
 title: "Biorefinery: From Biomass to Building Blocks of Biobased Products"
-excerpt: ""
+excerpt: "on EdX, held by WUR"
 collection: portfolio
 ---
 

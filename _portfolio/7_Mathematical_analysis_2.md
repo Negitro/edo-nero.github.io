@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Analysis 2"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

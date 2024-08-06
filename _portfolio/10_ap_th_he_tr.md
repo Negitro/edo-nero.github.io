@@ -1,6 +1,6 @@
 ---
 title: "Applied thermodynamics and heat transmission"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Agricultural mechanics"
-excerpt: ""
+excerpt: "at the University of Turin"
 collection: portfolio
 ---
 

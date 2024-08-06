@@ -1,6 +1,6 @@
 ---
 title: "Thermal design and optimisation"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

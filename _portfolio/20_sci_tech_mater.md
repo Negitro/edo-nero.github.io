@@ -1,6 +1,6 @@
 ---
 title: "Science and Technology of materials"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

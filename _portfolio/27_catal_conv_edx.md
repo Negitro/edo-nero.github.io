@@ -1,6 +1,6 @@
 ---
 title: "Catalytic Conversions for Biobased Chemicals and Products"
-excerpt: ""
+excerpt: "on EdX, held by WUR"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Engineering Drawing"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

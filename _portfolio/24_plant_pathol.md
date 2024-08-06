@@ -1,6 +1,6 @@
 ---
 title: "Plant pathology"
-excerpt: ""
+excerpt: "at the University of Turin"
 collection: portfolio
 ---
 

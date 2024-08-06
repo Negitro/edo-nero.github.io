@@ -1,6 +1,6 @@
 ---
 title: "Energy of buildings"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

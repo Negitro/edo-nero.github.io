@@ -1,6 +1,6 @@
 ---
 title: "Optimal use and safety of energy plants"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

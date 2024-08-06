@@ -1,6 +1,6 @@
 ---
 title: "Multiphase equipment design"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

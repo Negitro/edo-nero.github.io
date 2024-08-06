@@ -1,6 +1,6 @@
 ---
 title: "Principles of economics"
-excerpt: ""
+excerpt: "at the University of Turin"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Structural Mechanics"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

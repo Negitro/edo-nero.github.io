@@ -1,6 +1,6 @@
 ---
 title: "As above, so below: An introduction to soils, ecosystems and livelihoods in the Tropics"
-excerpt: ""
+excerpt: "on EdX, held by KU"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Energy applications of materials"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

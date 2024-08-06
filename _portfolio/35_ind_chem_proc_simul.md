@@ -1,6 +1,6 @@
 ---
 title: "Industrial chemistry and process simulation"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

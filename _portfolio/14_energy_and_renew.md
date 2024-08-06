@@ -1,6 +1,6 @@
 ---
 title: "Energy and Renewables"
-excerpt: ""
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

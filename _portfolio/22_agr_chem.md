@@ -1,6 +1,6 @@
 ---
 title: "Agricultural chemistry"
-excerpt: ""
+excerpt: "at the University of Turin"
 collection: portfolio
 ---
 

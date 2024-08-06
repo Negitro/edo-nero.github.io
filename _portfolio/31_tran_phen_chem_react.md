@@ -1,6 +1,6 @@
 ---
-title: "Transport phenomena and chemical"
-excerpt: ""
+title: "Transport phenomena and chemical reactors"
+excerpt: "at the Polytechnic of Turin"
 collection: portfolio
 ---
 

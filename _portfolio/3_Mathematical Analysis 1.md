@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Analysis 1"
-excerpt: "More information [here](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=16ACFMK&p_a_acc=2025&p_header=S&p_lang=IT&multi=N "Polito")."
+excerpt: ""
 collection: portfolio
 ---
 

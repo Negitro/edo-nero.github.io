@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Edoardo Martinero"
   pronouns         : "he/him"  
-  bio              : "Short biography"
+  bio              : "Energy Engineer with an interest on Biosystems"
   location         : "Turin, Italy"
   employer         : #"Myself"
   uri              : # URL
@@ -49,7 +49,7 @@ author:
 
   # Social media
   bluesky          : # Username "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "Edoardo Martinero"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Edoardo Martinero"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
